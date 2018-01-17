@@ -1,0 +1,15 @@
+/* #4 style one class to define the height x width, the other
+define background-color*/
+
+.class1 {
+	height: 100px;
+	width: 100px;
+}
+
+.class2 {
+	background-color:teal}
+}
+
+#image1 {
+	width: 500px;
+}
